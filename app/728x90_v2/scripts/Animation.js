@@ -11,9 +11,7 @@ app.Animation = (function () {
         cta_txt,
         push,
         atlas,
-        tiguan,
-        atlas_title,
-        tiguan_title;
+        tiguan;
 
 	// --------------------------------------------------------------------------------------
 	// set default properties
@@ -28,8 +26,6 @@ app.Animation = (function () {
         push = document.getElementById('push');
         atlas = document.getElementById('atlas');
         tiguan = document.getElementById('tiguan');
-        tiguan_title = document.getElementById('tiguan_title');
-        atlas_title = document.getElementById('atlas_title');
 
         buttonExit.addEventListener('mouseover', function () {
             TweenMax.to(cta_arrow, .25, {x: 5, ease: Sine.easeOut});
@@ -44,12 +40,12 @@ app.Animation = (function () {
             .to(cta_txt, .5, {opacity: 1})
             .to(cta_arrow, .5, {opacity: 1}, "-=.5");
 
-        tl2.from(atlas, 1, {scale:.8, x:"-=150", y:"-=20", ease: Sine.easeOut}, "+=3")
-            .from(tiguan, 1, {scale:.8, x:"+=150", y:"-=20", ease: Sine.easeOut}, "-=.9")
-            .to(tiguan_title, .5, {opacity: 1})
-            .to(atlas_title, .5, {opacity: 1}, "-=.5");
+        tl2.from(atlas, 1, {scale:.7, x:"-=150", y:"-=20", ease: Sine.easeOut})
+            .from(tiguan, 1, {scale:.7, x:"+=150", y:"-=20", ease: Sine.easeOut}, "-=.9");
 
-        TweenMax.to(push,6,{y:-5073,ease:SteppedEase.config(89)});
+        TweenMax.set(container,{delay:2, opacity:1});
+        TweenMax.to(push,6,{delay:2, y:-5073,ease:SteppedEase.config(89)});
+
 	}
 
 	// --------------------------------------------------------------------------------------

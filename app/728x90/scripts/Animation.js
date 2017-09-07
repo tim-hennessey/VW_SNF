@@ -44,12 +44,14 @@ app.Animation = (function () {
             .to(cta_txt, .5, {opacity: 1})
             .to(cta_arrow, .5, {opacity: 1}, "-=.5");
 
-        tl2.from(atlas, 1, {scale:.8, x:"-=150", y:"-=20", ease: Sine.easeOut}, "+=3")
-            .from(tiguan, 1, {scale:.8, x:"+=150", y:"-=20", ease: Sine.easeOut}, "-=.9")
+        tl2.from(atlas, 1, {scale:.7, x:"-=150", y:"-=20", ease: Sine.easeOut})
+            .from(tiguan, 1, {scale:.7, x:"+=150", y:"-=20", ease: Sine.easeOut}, "-=.9")
             .to(tiguan_title, .5, {opacity: 1})
             .to(atlas_title, .5, {opacity: 1}, "-=.5");
 
-        TweenMax.to(push,6,{y:-5073,ease:SteppedEase.config(89)});
+        TweenMax.set(container,{delay:2, opacity:1});
+        TweenMax.to(push,6,{delay:2, y:-5073,ease:SteppedEase.config(89)});
+        
 	}
 
 	// --------------------------------------------------------------------------------------
