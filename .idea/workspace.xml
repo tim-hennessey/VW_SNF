@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="433be0ea-5ad1-4958-af48-659ddf0a11f9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/728x90_v2/images/VWSUV_Push_300x250_sheet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/728x90_v2/images/VWSUV_Push_300x250_v3.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/VW_SNF.iml" afterPath="$PROJECT_DIR$/.idea/VW_SNF.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/728x90_v2/index.html" afterPath="$PROJECT_DIR$/app/728x90_v2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/728x90_v2/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/728x90_v2/scripts/Animation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/728x90_v2/styles/_layout.scss" afterPath="$PROJECT_DIR$/app/728x90_v2/styles/_layout.scss" />
     </list>
     <ignored path="VW_SNF.iws" />
@@ -30,31 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/300x250_v2/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="14" selection-start-line="24" selection-start-column="8" selection-end-line="42" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/300x250_v2/styles/_layout.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="914">
-              <caret line="126" column="9" selection-start-line="78" selection-start-column="8" selection-end-line="126" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Animation.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/300x250_v2/scripts/Animation.js">
+        <entry file="file://$PROJECT_DIR$/app/728x90_v2/scripts/Animation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="60" column="55" selection-start-line="50" selection-start-column="8" selection-end-line="60" selection-end-column="55" />
+            <state relative-caret-position="878">
+              <caret line="61" column="55" selection-start-line="51" selection-start-column="12" selection-end-line="61" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -79,8 +52,8 @@
         <option value="$PROJECT_DIR$/app/300x250_v2/styles/_layout.scss" />
         <option value="$PROJECT_DIR$/app/300x250_v2/scripts/Animation.js" />
         <option value="$PROJECT_DIR$/app/728x90_v2/index.html" />
-        <option value="$PROJECT_DIR$/app/728x90_v2/styles/_layout.scss" />
         <option value="$PROJECT_DIR$/app/728x90_v2/scripts/Animation.js" />
+        <option value="$PROJECT_DIR$/app/728x90_v2/styles/_layout.scss" />
       </list>
     </option>
   </component>
@@ -96,8 +69,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="33" />
-    <option name="y" value="72" />
+    <option name="x" value="523" />
+    <option name="y" value="56" />
     <option name="width" value="1234" />
     <option name="height" value="1238" />
   </component>
@@ -157,22 +130,8 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="VW_SNF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VW_SNF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="300x250_v2" />
+              <option name="myItemId" value="728x90_v2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -190,7 +149,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="300x250_v2" />
+              <option name="myItemId" value="728x90_v2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -212,11 +171,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="300x250_v2" />
+              <option name="myItemId" value="728x90_v2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VW_SNF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VW_SNF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -252,15 +225,15 @@
       <workItem from="1504806807296" duration="848000" />
       <workItem from="1504833756230" duration="4132000" />
       <workItem from="1504890460559" duration="12000" />
-      <workItem from="1504890476241" duration="1625000" />
+      <workItem from="1504890476241" duration="2448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12949000" />
+    <option name="totallyTimeSpent" value="13772000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="33" y="72" width="1234" height="1238" extended-state="0" />
+    <frame x="523" y="56" width="1234" height="1238" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25803792" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -465,26 +438,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/728x90_v2/index.html">
+    <entry file="file://$PROJECT_DIR$/app/300x250_v2/styles/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="14" selection-start-line="23" selection-start-column="8" selection-end-line="41" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/728x90_v2/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/728x90_v2/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="878">
-          <caret line="61" column="55" selection-start-line="51" selection-start-column="12" selection-end-line="61" selection-end-column="55" />
+        <state relative-caret-position="614">
+          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -497,18 +454,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_v2/styles/_layout.scss">
+    <entry file="file://$PROJECT_DIR$/app/300x250_v2/scripts/Animation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="914">
-          <caret line="126" column="9" selection-start-line="78" selection-start-column="8" selection-end-line="126" selection-end-column="9" />
+        <state relative-caret-position="158">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_v2/scripts/Animation.js">
+    <entry file="file://$PROJECT_DIR$/app/728x90_v2/styles/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="60" column="55" selection-start-line="50" selection-start-column="8" selection-end-line="60" selection-end-column="55" />
+        <state relative-caret-position="59">
+          <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/728x90_v2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="14" selection-start-line="23" selection-start-column="8" selection-end-line="41" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/728x90_v2/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="878">
+          <caret line="61" column="55" selection-start-line="51" selection-start-column="12" selection-end-line="61" selection-end-column="55" />
           <folding />
         </state>
       </provider>
