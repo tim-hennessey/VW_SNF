@@ -62,19 +62,19 @@ body {
     #scene {
         left: 0;
         top: 0;
-        width: 528px;
+        width: 455px;
         height: $banner-height;
         background: radial-gradient(ellipse at center, rgba(241,241,241,1) 70%,rgba(201,216,226,1) 100%);
         position: absolute;
 
         #container {
-            left: 130px;
-            top: 3px;
+            left: 35px;
+            top: 5px;
             width: 300px;
             height: 57px;
             overflow: hidden;
             position: absolute;
-            transform: scale(1.1) translate3d(0, 0, 0.1px);
+            //transform: scale(1.1) translate3d(0, 0, 0.1px);
             opacity: 0;
         }
 
@@ -134,7 +134,7 @@ body {
         background: #FFFFFF;
         right: 0;
         bottom: 0;
-        width: 200px;
+        width: 273px;
         height: $banner-height;
         position: absolute;
 
