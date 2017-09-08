@@ -82,11 +82,6 @@ body {
             top: 10px;
             position: absolute;
 
-            #atlas_img {
-                transform: translate3d(0, 0, 0.1px);
-                position: absolute;
-            }
-
             #atlas_front {
                 left: 35px;
                 top: 32px;
@@ -103,14 +98,9 @@ body {
         }
 
         #tiguan {
-            right: 155px;
+            right: 0;
             top: 10px;
             position: absolute;
-
-            #tiguan_img {
-                transform: translate3d(0, 0, 0.1px);
-                position: absolute;
-            }
 
             #tiguan_front {
                 left: 82px;
